@@ -1,0 +1,84 @@
+@font-face {
+	font-family: 'IndieFlower';
+	src: url('../fonts/IndieFlower.eot');
+	src: url('../fonts/IndieFlower.eot?#iefix') format('embedded-opentype');
+    src: url('../fonts/IndieFlower.otf') format('opentype');
+    src: url('../fonts/IndieFlower.svg#fonts/IndieFlower') format('svg');
+	src: url('../fonts/IndieFlower.ttf') format('truetype');
+	src: url('../fonts/IndieFlower.woff2') format('woff2');
+    /*src: url('fonts/IndieFlower.woff') format('woff');*/
+	font-weight: normal;
+	font-style: normal;
+}
+@font-face {
+	font-family: 'LoveYaLikeASister-Regular';
+	src: url('../fonts/LoveYaLikeASister-Regular.eot');
+	src: url('../fonts/LoveYaLikeASister-Regular.eot?#iefix') format('embedded-opentype');
+    src: url('../fonts/LoveYaLikeASister-Regular.otf') format('opentype');
+    src: url('../fonts/LoveYaLikeASister-Regular.svg#fonts/LoveYaLikeASister-Regular') format('svg');
+	src: url('../fonts/LoveYaLikeASister-Regular.ttf') format('truetype');
+	src: url('../fonts/LoveYaLikeASister-Regular.woff2') format('woff2');
+    /*src: url('fonts/LoveYaLikeASister-Regular.woff') format('woff');*/
+	font-weight: normal;
+	font-style: normal;
+}
+@font-face {
+	font-family: 'Montserrat-Regular';
+	src: url('../fonts/Montserrat-Regular.eot');
+	src: url('../fonts/Montserrat-Regular.eot?#iefix') format('embedded-opentype');
+    src: url('../fonts/Montserrat-Regular.otf') format('opentype');
+    src: url('../fonts/Montserrat-Regular.svg#fonts/Montserrat-Regular') format('svg');
+	src: url('../fonts/Montserrat-Regular.ttf') format('truetype');
+	src: url('../fonts/Montserrat-Regular.woff2') format('woff2');
+    /*src: url('fonts/Montserrat-Regular.woff') format('woff');*/
+	font-weight: normal;
+	font-style: normal;
+}
+@font-face {
+	font-family: 'Montserrat-Bold';
+	src: url('../fonts/Montserrat-Bold.eot');
+	src: url('../fonts/Montserrat-Bold.eot?#iefix') format('embedded-opentype');
+    src: url('../fonts/Montserrat-Bold.otf') format('opentype');
+    src: url('../fonts/Montserrat-Bold.svg#fonts/Montserrat-Bold') format('svg');
+	src: url('../fonts/Montserrat-Bold.ttf') format('truetype');
+	src: url('../fonts/Montserrat-Bold.woff2') format('woff2');
+    /*src: url('fonts/Montserrat-Bold.woff') format('woff');*/
+	font-weight: bold;
+	font-style: normal;
+}
+@font-face {
+	font-family: 'Padauk-Regular';
+	src: url('../fonts/Padauk-Regular.eot');
+	src: url('../fonts/Padauk-Regular.eot?#iefix') format('embedded-opentype');
+    src: url('../fonts/Padauk-Regular.otf') format('opentype');
+    src: url('../fonts/Padauk-Regular.svg#fonts/Padauk-Regular') format('svg');
+	src: url('../fonts/Padauk-Regular.ttf') format('truetype');
+	src: url('../fonts/Padauk-Regular.woff2') format('woff2');
+    /*src: url('fonts/Padauk-Regular.woff') format('woff');*/
+	font-weight: normal;
+	font-style: normal;
+}
+@font-face {
+	font-family: 'Padauk-Bold';
+	src: url('../fonts/Padauk-Bold.eot');
+	src: url('../fonts/Padauk-Bold.eot?#iefix') format('embedded-opentype');
+    src: url('../fonts/Padauk-Bold.otf') format('opentype');
+    src: url('../fonts/Padauk-Bold.svg#fonts/Padauk-Bold') format('svg');
+	src: url('../fonts/Padauk-Bold.ttf') format('truetype');
+	src: url('../fonts/Padauk-Bold.woff2') format('woff2');
+    /*src: url('fonts/Padauk-Bold.woff') format('woff');*/
+	font-weight: bold;
+	font-style: normal;
+}
+@font-face {
+	font-family: 'ShadowsIntoLight';
+	src: url('../fonts/ShadowsIntoLight.eot');
+	src: url('../fonts/ShadowsIntoLight.eot?#iefix') format('embedded-opentype');
+    src: url('../fonts/ShadowsIntoLight.otf') format('opentype');
+    src: url('../fonts/ShadowsIntoLight.svg#fonts/ShadowsIntoLight') format('svg');
+	src: url('../fonts/ShadowsIntoLight.ttf') format('truetype');
+	src: url('../fonts/ShadowsIntoLight.woff2') format('woff2');
+    /*src: url('fonts/ShadowsIntoLight.woff') format('woff');*/
+	font-weight: normal;
+	font-style: normal;
+}
